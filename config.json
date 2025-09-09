@@ -2,11 +2,11 @@
   "params":
   {
    "local_server": "True",
-    "local_uri": "mysql://root:@localhost/medical",
-    "proud_uri": "mysql://root:@localhost/medical",
+    "local_uri": "mysql://root:gk_password@localhost/medical",
+    "proud_uri": "mysql://root:gk_password@localhost/medical",
     "fb_url":"https://www.facebook.com",
-    "tw_url":"https://www.facebook.com",
-    "gh_url":"https://github.com",
+    "tw_url":"https://www.twitter.com",
+    "gh_url":"https://github.com/gkongit",
     "blog_name": "WELCOME",
     "headname": "MEDICAL SUPPLY MANAGEMENT",
     "user": "test",
